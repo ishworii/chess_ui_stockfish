@@ -240,7 +240,7 @@ graph TD
     A[Engine Turn] --> B[Create EngineThread]
     B --> C[Pass Current FEN Position]
     C --> D[Start Thread Execution]
-    D --> E[Stockfish Analysis (3 seconds)]
+    D --> E[Stockfish Analysis 3 seconds]
     E --> F[Return Best Move UCI]
     F --> G[Convert UCI to Move Object]
     G --> H[Emit move_found Signal]
