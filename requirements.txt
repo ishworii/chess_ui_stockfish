@@ -1,0 +1,8 @@
+chess==1.11.2
+PyQt5==5.15.11
+PyQt5-Qt5==5.15.17
+PyQt5_sip==12.17.0
+snakeviz==2.2.2
+tornado==6.5.2
+
+stockfish~=3.28.0
